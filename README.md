@@ -1,5 +1,4 @@
-# SpringBoot-Email-OTP
-Email Verification using OTP in Spring-Boot
+
 # SpringBoot-Email-OTP
 
 This project demonstrates an email-based OTP (One Time Password) authentication system using Spring Boot and MySQL. Follow the steps below to set up and run the project.
